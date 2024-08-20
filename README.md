@@ -4,7 +4,9 @@
 # Get ready to:
 
 ☁️ Set up a VPC with an EC2 instance.
+
 🔑 Use access keys to give your EC2 instance the power to use your AWS account.
+
 🪣 Interact with Amazon S3... through your EC2 instance!
 
 
@@ -108,7 +110,7 @@
 ![image](https://github.com/user-attachments/assets/10154504-25a2-419a-9d92-6f0ab4b68518)
 
 
-1. Search for in the search bar Access Keys
+1.Search for in the search bar Access Keys
 
 2.aha! So it's the IAM console that helps us set this up. Select IAM.
 
@@ -188,7 +190,6 @@
 
 ![image](https://github.com/user-attachments/assets/2a8e9688-ccd2-4984-8d43-b67b0731bb98)
 
-## Next, let's run the command aws s3 ls s3://nextwork-vpc-project-yourname.  Make sure to replace nextwork-vpc-project-yourname with your actual bucket name.
 
 ![image](https://github.com/user-attachments/assets/510e3a32-fcda-439a-88f2-8aa3c8b6d0f8)
 
